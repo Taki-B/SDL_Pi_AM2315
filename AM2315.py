@@ -1,4 +1,4 @@
-#!usr/bin/python 
+#!/usr/bin/python 
 # modified for GroveWeatherPi to return CRC information
 # SwitchDoc Labs, 2019
 # added more reliablity functions including GrovePower Save
